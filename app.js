@@ -12,6 +12,12 @@ main()
     console.log(err);
   });
 
+async function main() {
+  await mongoose.connect(MONGO_URL);
+}
+
+
+
 
 app.get("/", (req, res) => {
   res.send("Hi, I am root");
