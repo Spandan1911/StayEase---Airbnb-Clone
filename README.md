@@ -1,7 +1,7 @@
 # StayEase---Airbnb-Clone
 
 A full-stack web application inspired by Airbnb, built with Node.js, Express, MongoDB, and EJS.  
-StayEase allows users to explore property listings, perform CRUD operations, search, and book stays.  
+StayEase allows users to explore property listings, perform CRUD operations, search, and book stays 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
