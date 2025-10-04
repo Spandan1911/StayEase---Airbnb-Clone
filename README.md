@@ -11,7 +11,7 @@ StayEase allows users to explore property listings, perform CRUD operations, sea
 - ✍️ CRUD operations for property owners
 - 🔍 Search and filter properties
 - 📅 Booking system for guests
-- 🌐 RESTful API integration
+- 🌐 RESTful API integration.
 - 🎨 Responsive UI using EJS templates and CSS/Bootstrap
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
