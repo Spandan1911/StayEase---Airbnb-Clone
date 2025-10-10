@@ -8,7 +8,7 @@ StayEase allows users to explore property listings, perform CRUD operations, sea
 ## 🚀 Features
 - 🔑 User authentication (signup/login/logout)
 - 🏠 Property listings with images and details
-- ✍️ CRUD operations for property owners
+- ✍️ CRUD operations for property owners 
 - 🔍 Search and filter properties
 - 📅 Booking system for guests
 - 🌐 RESTful API integration
